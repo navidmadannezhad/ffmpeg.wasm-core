@@ -1,6 +1,7 @@
 FFmpeg.wasm Core
 ================
 
+
 ## Deprecated, merge to https://github.com/ffmpegwasm/ffmpeg.wasm as part of the monorepo.
 
 [![Node Version](https://img.shields.io/node/v/@ffmpeg/ffmpeg.svg)](https://img.shields.io/node/v/@ffmpeg/ffmpeg.svg)
